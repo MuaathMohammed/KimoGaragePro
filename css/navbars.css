@@ -1,0 +1,44 @@
+/* body {
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+} */
+
+.icon-twitter-square:before {
+  content: "\f081";
+}
+.top-bar {
+  border-bottom: 1px solid #e9ecef !important; 
+  position: static;
+}
+  .top-bar {
+  padding: .5rem 0;
+  background: #eee; }
+  .top-bar a {
+    color: #666666; }
+    .icon-facebook-square:before {
+      content: "\f082";
+    }
+    .icon-facebook:before {
+      content: "\f09a";
+    }
+    .icon-twitter:before {
+      content: "\f099";
+    }
+    .icon-phone-square:before {
+      content: "\f098";
+    }
+    .icon-mobile-phone:before {
+      content: "\f10b";
+    }
+    .icon-phone:before {
+      content: "\f095";
+    }
+    nav.sticky {
+      position: -webkit-sticky; /* Safari */
+      position: sticky;
+      top: 0;
+      z-index: 1;
+    }
